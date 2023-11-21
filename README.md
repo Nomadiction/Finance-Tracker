@@ -1,2 +1,2 @@
 # Finance-Tracker
-Launch home.html
+Launch home.html on Live Server
